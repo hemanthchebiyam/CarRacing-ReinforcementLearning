@@ -4,7 +4,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Stable Baselines3](https://img.shields.io/badge/Stable%20Baselines3-v1.0-orange)](https://stable-baselines3.readthedocs.io/en/master/)
-[![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-v0.26-brightgreen)](https://gym.openai.com/)
+[![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-v0.26-brightgreen)](https://gymnasium.farama.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.0-yellow?logo=tensorflow)](https://www.tensorflow.org/)
 
 ## Introduction to Reinforcement Learning
