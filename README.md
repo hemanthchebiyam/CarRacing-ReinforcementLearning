@@ -7,6 +7,9 @@
 [![OpenAI Gym](https://img.shields.io/badge/OpenAI%20Gym-v0.26-brightgreen)](https://gymnasium.farama.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-v2.0-yellow?logo=tensorflow)](https://www.tensorflow.org/)
 
+## Certificate: Agentic AI Innovation Challenge - Ready Tensor
+![](https://github.com/hemanthchebiyam/CarRacing-ReinforcementLearning/blob/main/Resources/Certificate.png)
+
 ## Introduction to Reinforcement Learning
 
 Reinforcement Learning (RL) is a type of machine learning where an agent learns to make decisions by performing actions in an environment to maximize some notion of cumulative reward. Unlike supervised learning, where the model is trained on a fixed dataset, RL involves learning through trial and error, where the agent interacts with the environment, receives feedback, and adjusts its policy accordingly.
